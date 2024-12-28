@@ -39,11 +39,13 @@ yarn install
 REACT_APP_API_BASE_URL=http://localhost:3000
 ```
 
+4. In the project directory, run:
+
+```bash
+yarn start
+```
+
 ## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
