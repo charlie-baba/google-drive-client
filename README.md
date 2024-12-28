@@ -16,7 +16,7 @@ The project uses [React](https://reactjs.org/) with [TypeScript](https://www.typ
 
 Before you begin, ensure you have:
 - [Node.js](https://nodejs.org/) (v14 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [yarn](https://yarnpkg.com/)
 - A Google Cloud Platform account with Google Drive API enabled
 
 ## Getting Started
